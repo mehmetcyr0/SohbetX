@@ -10,7 +10,8 @@ Flutter ile geliştirilen, modern, hızlı ve güvenli bir mesajlaşma uygulamas
 ## 🎬 Tanıtım Videosu
 
 📺 Uygulamanın nasıl çalıştığını görmek için aşağıdaki bağlantıya tıklayın:  
-👉 [SohbetX Tanıtım Videosu](https://www.youtube.com/shorts/-tzLtlp-4vw)
+👉[![SohbetX Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 ---
 
