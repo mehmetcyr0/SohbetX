@@ -1,16 +1,35 @@
-# sohbetx
+# 💬 SohbetX
 
-A new Flutter project.
+Flutter ile geliştirilen, modern, hızlı ve güvenli bir mesajlaşma uygulamasıdır. Gerçek zamanlı sohbet, arkadaş ekleme, medya paylaşımı ve daha fazlasını sunar.
 
-## Getting Started
+![SohbetX Logo](https://img.shields.io/badge/Flutter-v3.x-blue)  
+![Supabase](https://img.shields.io/badge/Backend-Supabase-success)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎬 Tanıtım Videosu
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📺 Uygulamanın nasıl çalıştığını görmek için aşağıdaki bağlantıya tıklayın:  
+👉 [SohbetX Tanıtım Videosu](https://www.youtube.com/shorts/-tzLtlp-4vw)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Özellikler
+
+- ✅ Gerçek zamanlı mesajlaşma (Supabase Realtime)
+- 🖼️ Fotoğraf ve dosya paylaşımı (Storage)
+- 🧑‍🤝‍🧑 Arkadaş ekleme ve istek yönetimi
+- 👤 Profil güncelleme (isim, avatar, bio)
+- 🔐 Giriş / Kayıt sistemi (Supabase Auth)
+- 💾 Yerel önbellekleme (SharedPreferences)
+
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **Flutter** (frontend)
+- **Supabase** (auth, storage, realtime, database)
+- **SharedPreferences**
+- **Logger, ImagePicker, FilePicker** gibi yardımcı paketler
+
+---
+
