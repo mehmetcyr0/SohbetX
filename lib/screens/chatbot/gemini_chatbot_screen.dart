@@ -20,7 +20,7 @@ class _GeminiChatbotScreenState extends State<GeminiChatbotScreen> {
 
   List<Message> _messages = [];
   bool _isLoading = false;
-  final String _apiKey = 'AIzaSyBs008XYbXtiyzjH3of94QEZwf2ZEVN2tM';
+  final String _apiKey = "Kendi API'ni gir";
 
   @override
   void initState() {
